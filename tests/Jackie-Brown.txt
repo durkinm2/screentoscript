@@ -1,0 +1,1050 @@
+[
+	{
+		"type": "scene",
+		"data": "INT. LOS ANGELES INTERNATIONAL AIRPORT - DAY"
+	},
+
+	{
+		"type": "action",
+		"data": "We hear the rhythm of funky seventies SOUL MUSIC."
+	},
+
+	{
+		"type": "action",
+		"data": "Then SHE steps into FRAME."
+	},
+
+	{
+		"type": "action",
+		"data": "She is JACKIE BROWN, a stewardess dressed in her CABO AIR
+uniform. (A little shuttle airline that flies from Los
+Angeles to Cabo San Lucas. Approximate flight time: forty
+five minutes)"
+	},
+
+	{
+		"type": "action",
+		"data": "Jackie stands still as a people-mover slowly inches her
+through the airport. The CREDITS APEAR and DISAPPEAR in
+front of her."
+	},
+
+	{
+		"type": "action",
+		"data": "Jackie Brown is a very attractive black woman in her mid
+forties, though she looks like she's in her mid-thirties."
+	},
+
+	{
+		"type": "action",
+		"data": "The people-mover reaches the end of the line, she steps
+off."
+	},
+
+	{
+		"type": "action",
+		"data": "She breezes through Customs and we follow her with a
+STEDICAM as she strides through the airport... She gets
+to her gate disappears inside the plane for a moment
+comes back out sans flight bag picks up the microphone."
+	},
+
+	{
+		"type": "character",
+		"data": "JACKIE"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(into mike)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Flight 710 Cabo San Lucas, now
+boarding Gate 12, first class only. "
+	},
+
+	{
+		"type": "action",
+		"data": "With a smile on her face, she collects passengers'
+boarding passes as they board the plane."
+	},
+
+	{
+		"type": "character",
+		"data": "FADE TO BLACK"
+	},
+
+
+	{
+		"type": "character",
+		"data": "TITLE CARD"
+	},
+
+	{
+		"type": "character",
+		"data": "\"ORDELL ROBBIE\""
+	},
+
+	{
+		"type": "transition",
+		"data": "FADE UP ON:"
+	},
+
+
+	{
+		"type": "scene",
+		"data": "EXT. FIRING RANGE - DAY"
+	},
+
+	{
+		"type": "character",
+		"data": "VIDEO"
+	},
+
+	{
+		"type": "action",
+		"data": "A chorus line of six beautiful bikini-clad women, all
+holding different automatic weapons, BLASTING away."
+	},
+
+	{
+		"type": "action",
+		"data": "The cheap VIDEO TITLES to:"
+	},
+
+	{
+		"type": "character",
+		"data": "\"CHICKS WHO LOVE GUNS\""
+	},
+
+	{
+		"type": "action",
+		"data": "Play over this image."
+	},
+
+	{
+		"type": "action",
+		"data": "One bikini beauty is singled out. She's a gorgeous
+brunette named SIDNEY. Sidney stands facing camera
+holding a TEC-9 and describing it."
+	},
+
+	{
+		"type": "character",
+		"data": "SIDNEY"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(to camera)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Hi, I'm Sidney. And I love to TEC-9.
+The popular TEC-9 is advertised by
+its makers as being tough as the
+toughest customer. "
+	},
+
+	{
+		"type": "action",
+		"data": "SIDNEY'S STATISTICS: Age, height, measurements, date of
+birth, appear at the bottom left-hand corner. As Sidney
+continues her sales pitch/demonstration, a BLACK MAN'S
+VOICE begins talking over the video."
+	},
+
+	{
+		"type": "character",
+		"data": "BLACK MAN (O.S.)"
+	},
+	{
+		"type": "speech",
+		"data": "
+That's a TEC-9. It's a cheap ass
+spray gun outta South Miami. "
+	},
+
+	{
+		"type": "action",
+		"data": "After a CLOSEUP of the TEC-9, Sidney FIRES the weapon."
+	},
+
+	{
+		"type": "character",
+		"data": "BLACK VOICE (O.S.) (CONT'D)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Cost three-eighty retail. I get them
+for two hundred and sell 'em for
+eight. "
+	},
+
+
+	{
+		"type": "scene",
+		"data": "INT. MELANIE'S BEAHC APARTMENT - NIGHT"
+	},
+
+	{
+		"type": "action",
+		"data": "The Black Voice belong to forty-five-year old ORDELL"
+	},
+	{
+		"type": "character",
+		"data": "ROBBIE."
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell wears clothes nice and likes wearing nice clothes.
+Stylish, athletic wear (Reebok), heavy, black leather
+jackets (Hugo Boss), warm-colored berets and baseball
+caps to cover his balding head are Ordell's \"look.\" At
+this moment Ordell's wearing an open silk shirt."
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell narrates the video playing on the big-screen V.
+(the most expensive thing in the apartment). He holds a
+cocktail in one hand (screwdriver, his drink of choice)
+and the remote control in the other, pacing the floor in
+his I-can-talk-anybody-into-anything voice."
+	},
+
+	{
+		"type": "action",
+		"data": "LOUIS GARA, who looks like he does his shopping at the
+Salvation Army (dressed in a Hawaiian shirt and
+dungarees), sits on the sofa staring blankly at the
+video, drinking Jack Daniels on ice. Louis, white, also
+in his mid forties, has lived over half of his life in
+penal institutions. The experience has affected both his
+body language and his thought process."
+	},
+
+	{
+		"type": "action",
+		"data": "While acutely aware of the rhythm of life inside a
+correction facility, in the real world his timing is
+thrown. It's like a song he doesn't know the lyrics to
+but attempt to sing anyway."
+	},
+
+	{
+		"type": "action",
+		"data": "The third person watching the video is the person who
+lives in this apartment, MELANIE RALSTON. Melanie, thirty-
+three, is a tanned, blonde, California beach bunny. Like
+the kind you se in the old Crown International movies
+from the seventies like \"Pom Pom Girls\" \"Malibu Beach\"
+and \"Beach Girls,\" except Melanie is older than any of
+those girls ever are. She's dressed in her Melanie-
+uniform of stringy Levis cutoffs and a stringy bra top.
+So far Melanie has been able to make a living out of
+lying in the sun, always finding a generous, wealthy man
+more than willing to pay her rent and pick up her tabs.
+In her prime (twenty two) it was Japanese industrialists,
+film production guys, and Middle Eastern businessmen who
+kept Melanie. And it was places like the Bahamas,
+Acapulco, and the Virgin Islands where they kept her."
+	},
+
+	{
+		"type": "action",
+		"data": "But now, at thirty three, she lives in an apartment in
+Hermosa Beach, California that Ordell pays for an drops
+in and out of. She's curled up in a reclining chair,
+smoking weed from a pipe, reading Movieline Magazine and
+paying no attention to the video."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "speech",
+		"data": "
+This TEC-9? They advertise it as
+being the most popular gun in
+American crime. Can you believe that
+shit? It actually says that on the
+little booklet that comes with it.
+\"Most Popular Gun in American Crime,\"
+like they're proud of that shit. "
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell hits the fast-forward on his remote control."
+	},
+
+	{
+		"type": "action",
+		"data": "Sidney is rushed off the screen and replace by CINDY, a
+pretty, blonde bodybuilder clad in a red, white and blue
+bikini, holding a Styer Aug."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL (CONT'D)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Check out this body-builder chick...
+Now see what she got. That's a Styer
+aug. Styer Aug's a bad motherfucker.
+Listen. "
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell punches up the volume."
+	},
+
+	{
+		"type": "action",
+		"data": "Cindy BLASTS the Styer Aug, loud."
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell imitates the sound of the weapon."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL (CONT'D)"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(to Melanie)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Shit's expensive, man. Comes from
+Austria. My customers don't know shit
+about it, so there ain't no demand.
+Baby, I could use some more ice. "
+	},
+
+	{
+		"type": "action",
+		"data": "Melanie puts down the magazine, takes his cocktail glass
+from him and moves to the kitchen."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL (CONT'D)"
+	},
+	{
+		"type": "speech",
+		"data": "
+But put that bad boy in a flick,
+every motherfucker out there want
+one. I'm serious as a heart attack.
+Them Hong Kong movies came out, every
+nigga gotta have a forty-five. And
+they don't want one, they want two,
+cause nigga want to be \"The Killer.\"
+What they don't know, and that movie
+don't tell you is a .45 has a serious
+fuckin' jammin' problem. I always try
+and steer a customer towards a 9-
+millimeter. Damn near the same
+weapon, don't have half the jammin'
+problems. But some niggas out there,
+you can't tell them anything. They
+want a .45. The killer had a .45,
+they want a .45. "
+	},
+
+	{
+		"type": "action",
+		"data": "Melanie comes back, hands Ordell his screwdriver, then
+sits where she was."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL (CONT'D)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Thanks, Baby. "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Who's your partner? "
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell sits down on the couch. Melanie's reading
+\"Movieline Inside\" magazine."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(back to video)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Mr. Walker. He runs a fishing boat in
+Mexico. I deliver the merchandise to
+him, gets it to my customers. On all
+my bulk sales, anyway. Nigga didn't
+have a pot to piss in or a window to
+throw it out 'fore I set 'em up. Now,
+motherfucker's rollin' in cash. He
+got himself a yacht, with all kinds
+of high tech navigational shit on it.
+AK-47, the very best there is. "
+	},
+
+	{
+		"type": "action",
+		"data": "GLORIA, a tall, Amazonian, bikini-clad, black woman faces
+camera and describes the AK-47."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL (CONT'D)"
+	},
+	{
+		"type": "speech",
+		"data": "
+When you absolutely, positively,
+gotta kill every motherfucker in the
+room, accept no substitute. That
+there is the Chinese one. I pay eight-
+fifty and double my money. "
+	},
+
+	{
+		"type": "action",
+		"data": "The phone rings."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL(CONT'D)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Get that for me, will ya baby? "
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+You know it's for you. "
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell just stares at her."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "speech",
+		"data": "
+Girl, you better not make me go over
+there and put my feet to ya. "
+	},
+
+	{
+		"type": "action",
+		"data": "Louis keeps staring at he screen."
+	},
+
+	{
+		"type": "action",
+		"data": "Melanie gets up, goes over to the counter that separates
+the living room from the kitchen, picks up the phone,
+says:"
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+Hello. "
+	},
+
+	{
+		"type": "action",
+		"data": "Puts the phone down and says;"
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE (CONT'D)"
+	},
+	{
+		"type": "speech",
+		"data": "
+It's for you. "
+	},
+
+	{
+		"type": "action",
+		"data": "Before Ordell knows it, Melanie is back in the reclining
+chair, reclining back all the way."
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell, pissed, looks at her a moment before taking the
+phone."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(into phone)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Yeah.
+Hey, Junebug, what's up "
+	},
+
+	{
+		"type": "action",
+		"data": "Louis sits on he couch, drinking his Jack Daniels,
+watching the video."
+	},
+
+	{
+		"type": "action",
+		"data": "Melanie lies back on the reclining chair, takes a hit off
+her pipe, then says in a 'holding in smoke' voice;"
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(referring to the tape)"
+	},
+	{
+		"type": "speech",
+		"data": "
+It's boring, isn't it? "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+I can sit through it once. "
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+He thinks he's Joe Gunn now. "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+I'm impressed. He knows a lot. "
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+He's just repeating shit he
+overheard. He ain't any more a gun
+expert than I am. "
+	},
+
+	{
+		"type": "action",
+		"data": "Holding up her pipe."
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+Want a hit? "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Sure. "
+	},
+
+	{
+		"type": "action",
+		"data": "Louis takes a hit off the pipe."
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+When did you get out of jail? "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Four days ago. "
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+Where at? "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Susanville. "
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+How long? "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Two months shy of four years. "
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+Four years? "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Uh-huh. "
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+What for? "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Bank robbery. "
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+Really, I'm impressed. "
+	},
+
+	{
+		"type": "action",
+		"data": "Louis takes a drink of whiskey."
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+Four years that's a long fuckin time. "
+	},
+
+	{
+		"type": "action",
+		"data": "Louis nods his head in agreement."
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell hangs up the phone."
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell comes back, sitting down on the other side of
+Louis."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "speech",
+		"data": "
+See, what did I tell you? Man in New
+York wants a 9 millimeter Smith and
+Wesson Model 5946. Why does he want
+it? It's the gun that nigga on \"New
+York Undercover\" uses. Because of
+that nigga, I can sell it to this
+nigga for twelve-fifty. "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+What's your cost? "
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "speech",
+		"data": "
+As low as two. "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Are you serious? "
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "speech",
+		"data": "
+That's what I been tellin' you. Start
+adding these motherfuckin' figures
+up, and you tell me this ain't a
+business to be in. "
+	},
+
+	{
+		"type": "action",
+		"data": "The phone rings again."
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell looks at Melanie."
+	},
+
+	{
+		"type": "action",
+		"data": "Melanie looks at Ordell."
+	},
+
+	{
+		"type": "action",
+		"data": "They have a bit of a staring contest before she gets up
+and gets the phone."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL (CONT'D)"
+	},
+	{
+		"type": "speech",
+		"data": "
+I got me five M-60 machine guns.
+These came straight from the Gulf
+War. I sold me three of them so far,
+twenty grand a piece. "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+That's good money. "
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "speech",
+		"data": "
+Louis, this is it, man. I'm gonna
+make me a million dollars out of
+this. I already got me a half-a-
+million sittin' in Mexico. When I do
+this last delivery, I'm gonna make me
+another half-million. "
+	},
+
+	{
+		"type": "character",
+		"data": "LOUIS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Then what? "
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "speech",
+		"data": "
+I get out. Spend the rest of my life
+spending. "
+	},
+
+	{
+		"type": "action",
+		"data": "Melanie sits back down in he chair."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL (CONT'D)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Who is it? "
+	},
+
+	{
+		"type": "character",
+		"data": "MELANIE"
+	},
+	{
+		"type": "speech",
+		"data": "
+It's Beaumont. "
+	},
+
+
+	{
+		"type": "character",
+		"data": "KITCHEN"
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell, drink in hand, picks up the receiver."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(into phone)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Beaumont¢Ordell. What's the problem?
+What the fuck you doin' in jail?
+What the fuck you doin' that for?
+Ain't you got better sense than to be
+drivin' drunk carrying a goddam
+pistol? "
+	},
+
+	{
+		"type": "action",
+		"data": "He listens to Beaumont on the other line - it's obvious
+Beaumont's starting to freak out. Ordell changes his
+tone."
+	},
+
+	{
+		"type": "character",
+		"data": "ORDELL (CONT'D)"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(pause)"
+	},
+	{
+		"type": "speech",
+		"data": "
+- Beaumont. Beaumont. Listen to me.
+Number one, you need to chill out,
+nigga. Bad as this shit is, this shit
+ain't as bad as you think it is.
+Course you're scared. That's what
+these motherfuckers get paid for
+scarin' the shit outta ya. That's
+their job. And my job is to get you
+the fuck home so let me tell you what
+is gonna happen... May I speak?...
+Thank you... You gonna spend the
+night in jail; it's too late to get
+you out now. Tomorrow, they gonna
+take you into court. I'm gonna be
+there. Judge gonna set your bail. I'm
+gonna pay your bail, they gonna cut
+you loose. By tomorrow night, you'll
+be back home, I promise.
+So just calm your ass down, and I'll
+see you tomorrow.
+You owe me a helluva lot more than
+one, nigga.
+See you. "
+	},
+
+	{
+		"type": "action",
+		"data": "Ordell hangs up the phone."
+	},
+
+	{
+		"type": "transition",
+		"data": "CUT TO:"
+	},
+
+
+	{
+		"type": "scene",
+		"data": "EXT. CHERRY BAIL BONDS - DAY"
+	},
+
+	{
+		"type": "action",
+		"data": "The store front window of Cherry Bail Bonds in Inglewood,
+California. The name of the business is spelled out on
+the window, which also includes a drawing of a fat red
+cherry."
+	}
+]

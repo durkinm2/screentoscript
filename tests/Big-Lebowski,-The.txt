@@ -1,0 +1,1439 @@
+[
+	{
+		"type": "scene",
+		"data": "INTERIOR
+RALPH'S"
+	},
+
+	{
+		"type": "misc",
+		"data": " It is late, the supermarket all but deserted.
+We are tracking in on a fortyish man in Bermuda shorts and sunglasses at the dairy case.
+He is the Dude.
+His rumpled look and relaxed manner suggest a man in whom casualness runs deep."
+	},
+	{
+		"type": "misc",
+		"data": "He is feeling quarts of milk for coldness and examining their expiration dates."
+	},
+
+	{
+		"type": "character",
+		"data": "VOICE-OVER"
+	},
+	{
+		"type": "speech",
+		"data": "  Now this story I'm about to unfold   ook place back in the early nineties--   just about the time of our conflict   with Sad'm and the Eye-rackies.
+I   only mention it 'cause some- times   here's a man--I won't say a hee-ro,   'cause what's a hee-ro?--but sometimes   here's a man."
+	},
+	{
+		"type": "action",
+		"data": "The Dude glances furtively about and then opens a quart of milk.
+He sticks his nose in the spout and sniffs."
+	},
+	{
+		"type": "character",
+		"data": "VOICE-OVER"
+	},
+	{
+		"type": "speech",
+		"data": "  And I'm talkin' about the Dude here--   sometimes there's a man who, wal,   he's the man for his time'n place,   he fits right in there--and that's   he Dude, in Los Angeles."
+	},
+	{
+		"type": "character",
+		"data": "CHECKOUT GIRL"
+	},
+	{
+		"type": "speech",
+		"data": " She waits, arms folded.
+A small black-and white TV next to her register shows George Bush on the White House lawn with helicopter rotors spinning behind him."
+	},
+	{
+		"type": "character",
+		"data": "GEORGE BUSH"
+	},
+	{
+		"type": "speech",
+		"data": "  This aggression will not stand. . .   This will not stand!"
+	},
+	{
+		"type": "action",
+		"data": "The Dude, peeking over his shades, scribbles something at the little customer's lectern.
+Milk beads his mustache."
+	},
+	{
+		"type": "character",
+		"data": "VOICE-OVER"
+	},
+	{
+		"type": "speech",
+		"data": "  ...and even if he's a lazy man, and   he Dude was certainly that--quite   possibly the laziest in Los Angeles   County."
+	},
+	{
+		"type": "action",
+		"data": "The Dude has his Ralph's Shopper's Club card to one side and is making out a check to Ralph's for sixty-nine cents."
+	},
+	{
+		"type": "character",
+		"data": "VOICE-OVER"
+	},
+	{
+		"type": "speech",
+		"data": "  ...which would place him high in the   runnin' for laziest worldwide--but   sometimes there's a man. . . sometimes   here's a man."
+	},
+	{
+		"type": "scene",
+		"data": "EXTERIOR
+RALPH'S"
+	},
+	{
+		"type": "misc",
+		"data": " Long shot of the glowing Ralph's.
+There are only two or three cars parked in the huge lot."
+	},
+
+	{
+		"type": "character",
+		"data": "VOICE-OVER"
+	},
+	{
+		"type": "speech",
+		"data": "  Wal, I lost m'train of thought here.
+   But--aw hell, I done innerduced him   enough."
+	},
+	{
+		"type": "action",
+		"data": "The Dude is a small figure walking across the vast lot.
+ Next to him walks a Mexican carry-out boy in a red apron and cap carrying a small brown bag holding the quart of milk.
+ The two men's footsteps echo in the still of the night.After a beat of walking the Dude offhandedly points."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  It's the LeBaron."
+	},
+	{
+		"type": "character",
+		"data": "DUDE'S HOUSE"
+	},
+	{
+		"type": "speech",
+		"data": " The Dude is going up the walkway of a small Venice bungalow court.
+He holds the paper sack in one hand and a small leatherette satchel in the other.
+He awkwardly hugs the grocery bag against his chest as he turns a key in his door."
+	},
+	{
+		"type": "character",
+		"data": "INSIDE"
+	},
+	{
+		"type": "speech",
+		"data": " The Dude enters and flicks on a light."
+	},
+	{
+		"type": "action",
+		"data": "His head is grabbed from behind and tucked into an armpit.
+ We track with him as he is rushed through the living room, his arm holding the satchel flailing away from his body.
+ Going into the bedroom the outflung satchel catches a piece of doorframe and wallboard and rips through it, leaving a hole.The Dude is propelled across the bedroom and on into a small bathroom, the satchel once again taking away a piece of doorframe.
+His head is plunged into the toilet.
+The paper bag hugged to his chest explodes milk as it hits the toilet rim and the satchel pulverizes tile as it crashes to the floor.The Dude blows bubbles."
+	},
+	{
+		"type": "character",
+		"data": "VOICE"
+	},
+	{
+		"type": "speech",
+		"data": "  We want that money, Lebowski.
+Bunny   said you were good for it."
+	},
+	{
+		"type": "action",
+		"data": "Hands haul the Dude out of the toilet. The Dude blubbers and gasps for air."
+	},
+	{
+		"type": "character",
+		"data": "VOICE"
+	},
+	{
+		"type": "speech",
+		"data": "  Where's the money, Lebowski!"
+	},
+	{
+		"type": "action",
+		"data": "His head is plunged back into the toilet."
+	},
+	{
+		"type": "character",
+		"data": "VOICE"
+	},
+	{
+		"type": "speech",
+		"data": "  Where's the money, Lebowski!"
+	},
+	{
+		"type": "action",
+		"data": "The hands haul him out again, dripping and gasping."
+	},
+	{
+		"type": "character",
+		"data": "VOICE"
+	},
+	{
+		"type": "character",
+		"data": "WHERE'S THE FUCKING MONEY, SHITHEAD!"
+	},
+	{
+		"type": "speech",
+		"data": " "
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  It's uh, it's down there somewhere.
+   Lemme take another look."
+	},
+	{
+		"type": "action",
+		"data": "His head is plunged back in."
+	},
+	{
+		"type": "character",
+		"data": "VOICE"
+	},
+	{
+		"type": "speech",
+		"data": "  Don't fuck with us.
+If your wife   owes money to Jackie Treehorn, that   means you owe money to Jackie   Treehorn."
+	},
+	{
+		"type": "action",
+		"data": "The inquisitor hauls the Dude's head out one last time and flops him over so that he sits on the floor, back against the toilet.The Dude gropes back in the toilet with one hand.Looming over him is a strapping blond man.Beyond in the living room a young Chinese man unzips his fly and walks over to a rug."
+	},
+	{
+		"type": "character",
+		"data": "CHINESE MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Ever thus to deadbeats, Lebowski."
+	},
+	{
+		"type": "action",
+		"data": "He starts peeing on the rug.The Dude's hand comes out of the toilet bowl with his sunglasses."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Oh, man.
+Don't do--"
+	},
+	{
+		"type": "character",
+		"data": "BLOND MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  You see what happens?
+You see what   happens, Lebowski?"
+	},
+	{
+		"type": "action",
+		"data": "The Dude puts on his dripping sunglasses."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Look, nobody calls me Lebowski.
+You   got the wrong guy.
+I'm the Dude,   man."
+	},
+	{
+		"type": "character",
+		"data": "BLOND MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Your name is Lebowski.
+Your wife is   Bunny."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Bunny?
+Look, moron."
+	},
+	{
+		"type": "action",
+		"data": "He holds up his hands."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  You see a wedding ring?
+Does this   place look like I'm fucking married?
+   All my plants are dead!"
+	},
+	{
+		"type": "action",
+		"data": "The blond man stoops to unzip the satchel.
+He pulls out a bowling ball and examines it in the manner of a superstitious ative."
+	},
+	{
+		"type": "character",
+		"data": "BLOND MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  The fuck is this?"
+	},
+	{
+		"type": "action",
+		"data": "The Dude pats at his pockets, takes out a joint and lights it."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Obviously you're not a golfer."
+	},
+	{
+		"type": "action",
+		"data": "The blond man drops the ball which pulverizes more tile."
+	},
+	{
+		"type": "character",
+		"data": "BLOND MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Woo?"
+	},
+	{
+		"type": "action",
+		"data": "The Chinese man is zipping his fly."
+	},
+	{
+		"type": "character",
+		"data": "WOO"
+	},
+	{
+		"type": "speech",
+		"data": "  Yeah?"
+	},
+	{
+		"type": "character",
+		"data": "BLOND MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Wasn't this guy supposed to be a   millionaire?"
+	},
+	{
+		"type": "character",
+		"data": "WOO"
+	},
+	{
+		"type": "speech",
+		"data": "  Uh?"
+	},
+	{
+		"type": "action",
+		"data": "They both look around."
+	},
+	{
+		"type": "character",
+		"data": "WOO"
+	},
+	{
+		"type": "speech",
+		"data": "  Fuck."
+	},
+	{
+		"type": "character",
+		"data": "BLOND MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  What do you think?"
+	},
+	{
+		"type": "character",
+		"data": "WOO"
+	},
+	{
+		"type": "speech",
+		"data": "  He looks like a fuckin' loser."
+	},
+	{
+		"type": "action",
+		"data": "The Dude pulls his sunglasses down his nose with one finger and peeks over them."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Hey.
+At least I'm housebroken."
+	},
+	{
+		"type": "action",
+		"data": "The two men look at each other.
+They turn to leave."
+	},
+	{
+		"type": "character",
+		"data": "WOO"
+	},
+	{
+		"type": "speech",
+		"data": "  Fuckin' waste of time."
+	},
+	{
+		"type": "action",
+		"data": "The blond man turns testily at the door."
+	},
+	{
+		"type": "character",
+		"data": "BLOND MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Thanks a lot, asshole."
+	},
+	{
+		"type": "transition",
+		"data": "ON THE DOOR SLAM WE CUT TO:"
+	},
+
+	{
+		"type": "character",
+		"data": "BOWLING PINS"
+	},
+	{
+		"type": "speech",
+		"data": " Scattered by a strike."
+	},
+	{
+		"type": "action",
+		"data": "Music and head credits play over various bowling shots--pins flying, bowlers hoisting balls, balls gliding down lanes, sliding feet, graceful releases, ball return spinning up a ball, fingers sliding into fingerholes, etc.The music turns into boomy source music, coming from a distant jukebox, as the credits end over a clattering strike.A lanky blonde man with stringy hair tied back in a ponytail turns from the strike to walk back to the bench."
+	},
+	{
+		"type": "character",
+		"data": "MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Hot damn, I'm throwin' rocks tonight.
+   Mark it, Dude."
+	},
+	{
+		"type": "action",
+		"data": "We are tracking in on the circular bench towards a big man ursing a large plastic cup of Bud.
+He has dark worried eyes and a goatee.
+Hairy legs emerge from his khaki shorts.
+ He also wears a khaki army surplus shirt with the sleeves cut off over an old bowling shirt.
+This is Walter.
+He squints through the smoke from his own cigarette as he addresses the Dude at the scoring table.The Dude, also holding a large plastic cup of Bud, wears some of its foam on his mustache."
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  This was a valued rug."
+	},
+	{
+		"type": "action",
+		"data": "He elaborately clears his throat."
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  This was, uh--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Yeah man, it really tied the room   ogether--"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  This was a valued, uh."
+	},
+	{
+		"type": "action",
+		"data": "Donny, the strike-scoring bowler, enters and sits next Walter."
+	},
+	{
+		"type": "character",
+		"data": "DONNY"
+	},
+	{
+		"type": "speech",
+		"data": "  What tied the room together, Dude?"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Were you listening to the story,   Donny?"
+	},
+	{
+		"type": "character",
+		"data": "DONNY"
+	},
+	{
+		"type": "speech",
+		"data": "  What--"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Were you listening to the Dude's   story?"
+	},
+	{
+		"type": "character",
+		"data": "DONNY"
+	},
+	{
+		"type": "speech",
+		"data": "  I was bowling--"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  So you have no frame of reference,   Donny.
+You're like a child who   wanders in in the middle of a movie   and wants to know--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  What's your point, Walter?"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  There's no fucking reason--here's my   point, Dude--there's no fucking reason--"
+	},
+	{
+		"type": "character",
+		"data": "DONNY"
+	},
+	{
+		"type": "speech",
+		"data": "  Yeah Walter, what's your point?"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Huh?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  What's the point of--we all know who   was at fault, so what the fuck are   you talking about?"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Huh?
+No!
+What the fuck are you   alking--I'm not--we're talking about   unchecked aggression here--"
+	},
+	{
+		"type": "character",
+		"data": "DONNY"
+	},
+	{
+		"type": "speech",
+		"data": "  What the fuck is he talking about?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  My rug."
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Forget it, Donny.
+You're out of   your element."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  This Chinaman who peed on my rug, I   can't go give him a bill so what the   fuck are you talking about?"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  What the fuck are you talking about?!
+   This Chinaman is not the issue!
+I'm   alking about drawing a line in the   sand, Dude.
+Across this line you do   not, uh--and also, Dude, Chinaman is   not the preferred, uh. . . Asian-   American.
+Please."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Walter, this is not a guy who built   he rail- roads, here, this is a guy   who peed on my--"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  What the fuck are you--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Walter, he peed on my rug--"
+	},
+	{
+		"type": "character",
+		"data": "DONNY"
+	},
+	{
+		"type": "speech",
+		"data": "  He peed on the Dude's rug--"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  YOU'RE OUT OF YOUR ELEMENT!
+This   Chinaman is not the issue, Dude."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  So who--"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Jeff Lebowski.
+Come on.
+This other   Jeffrey Lebowski.
+The millionaire.
+   He's gonna be easier to find anyway   han these two, uh. these two
+. . .   And he has the wealth, uh, the   resources obviously, and there is no   reason, no FUCKING reason, why his   wife should go out and owe money and   hey pee on your rug.
+Am I wrong?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  No, but--"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Am I wrong!"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Yeah, but--"
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Okay. That, uh."
+	},
+	{
+		"type": "action",
+		"data": "He elaborately clears his throat.That rap really tied the room together, did it not?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Fuckin' A."
+	},
+	{
+		"type": "character",
+		"data": "DONNY"
+	},
+	{
+		"type": "speech",
+		"data": "  And this guy peed on it."
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Donny!
+Please!"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Yeah, I could find this Lebowski guy--"
+	},
+	{
+		"type": "character",
+		"data": "DONNY"
+	},
+	{
+		"type": "speech",
+		"data": "  His name is Lebowski?
+That's your   name, Dude!"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Yeah, this is the guy, this guy should   compensate me for the fucking rug.
+   I mean his wife goes out and owes   money and they pee on my rug."
+	},
+	{
+		"type": "character",
+		"data": "WALTER"
+	},
+	{
+		"type": "speech",
+		"data": "  Thaaat's right Dude; they pee on   your fucking Rug."
+	},
+	{
+		"type": "character",
+		"data": "CLOSE ON A PLAQUE"
+	},
+	{
+		"type": "speech",
+		"data": " We pull back from the name JEFFREY LEBOWSKI engraved in silver to reveal that the plaque, from Variety Clubs International, honors Lebowski as ACHIEVER OF THE YEAR."
+	},
+	{
+		"type": "action",
+		"data": "Reflected in the plaque we see the Dude entering the room with a YOUNG MAN.
+We hear the two men talk:"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  And this is the study.
+You can see   he various commendations, honorary   degrees, et cetera."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Yes, uh, very impressive."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Please, feel free to inspect them."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  I'm not really, uh."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Please!
+Please!"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Uh-huh."
+	},
+	{
+		"type": "action",
+		"data": "We are panning the walls, looking at various citations andcertificates unrelated to the ones being discussed offscreen:"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  That's the key to the city of   Pasadena, which Mr. Lebowski was   given two years ago in recognition   of his various civic, uh."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Uh-huh."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  That's a Los Angeles Chamber of   Commerce Business Achiever award,   which is given--not necessarily given   every year!
+Given only when there's   a worthy, somebody especially--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Hey, is this him with Nancy?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  That is indeed Mr. Lebowski with the   first lady, yes, taken when--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Lebowski on the right?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Of course, Mr. Lebowski on the right,   Mrs.
+Reagan on the left, taken when--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  He's handicapped, huh?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Mr. Lebowski is disabled, yes.
+And   his picture was taken when Mrs.   Reagan was first lady of the nation,   yes, yes? Not of California."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Far out."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  And in fact he met privately with   he President, though unfortunately   here wasn't time for a photo   opportunity."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Nancy's pretty good."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Wonderful woman.
+We were very--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Are these."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  These are Mr. Lebowski's children,   so to speak--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Different mothers, huh?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  No, they--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  I guess he's pretty, uh, racially   pretty cool--"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  They're not his, heh-heh, they're   not literally his children; they're   he Little Lebowski Urban Achievers,   inner-city children of promise but   without the--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  I see."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  --without
+the means
+for higher
+   education, so Mr. Lebowski
+has   committed
+to sending
+all of them   o college."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Jeez.
+Think he's got room for one   more?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  One--oh!
+Heh-heh.
+You never went   o college?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Well, yeah I did, but I spent most   of my time occupying various, um,   administration buildings--"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Heh-heh--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  --smoking thai-stick, breaking into   he ROTC--"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "  Yes, heh--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  --and bowling.
+I'll tell you the   ruth, Brandt, I don't remember most   of it.--Jeez!
+Fuck me!"
+	},
+	{
+		"type": "action",
+		"data": "Our continuing track and pan have brought us onto a framed Life Magazine cover which is headlined ARE YOU A LEBOWSKI ACHIEVER?
+Oddly, the Dude's sunglassed face is on it; we realize that, under the magazine's logo and headline, the display is mirrored.We hear the door open and the whine of a motor.
+The Dude, wearing shorts and a bowling shirt, turns to look.So does Brandt, the young man we've been listening to.
+He wears a suit and has his hands clasped in front of his groin.Entering the room is a fat sixtyish man in a motorized wheelchair--Jeff Lebowski."
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  Okay sir, you're a Lebowski, I'm a   Lebowski, that's terrific, I'm very   busy so what can I do for you?"
+	},
+	{
+		"type": "action",
+		"data": "He wheels himself behind a desk.
+The Dude sits facing him as Brandt withdraws."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Well sir, it's this rug I have, really   ied the room together-"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  You told Brandt on the phone, he   old me.
+So where do I fit in?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Well they were looking for you, these   wo guys, they were trying to--"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  I'll say it again, all right?
+You   old Brandt.
+He told me.
+I know   what happened. Yes?
+Yes?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  So you know they were trying to piss   on your rug--"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  Did I urinate on your rug?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  You mean, did you personally come   and pee on my--"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  Hello!
+Do you speak English?
+Parla   usted Inglese?
+I'll say it again.
+   Did I urinate on your rug?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Well no, like I said, Woo peed on   he rug--"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  Hello!
+Hello!
+So every time--I   just want to understand this, sir--   every time a rug is micturated upon   in this fair city, I have to   compensate the--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Come on, man, I'm not trying to scam   anybody here, I'm just--"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  You're just looking for a handout   like every other--are you employed,   Mr. Lebowski?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Look, let me explain something.
+   I'm not Mr. Lebowski;
+you're Mr.   Lebowski.
+I'm the Dude.
+So that's
+   what
+you
+call me.
+That, or Duder.   His
+Dudeness.
+Or El Duderino, if,
+   you know, you're not into the whole   brevity thing--"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  Are you employed, sir?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Employed?"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  You don't go out and make a living   dressed like that in the middle of a   weekday."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Is this a--what day is this?"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  But I do work, so if you don't mind--"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  No, look.
+I do mind.
+The Dude minds.
+   This will not stand, ya know, this   will not stand, man.
+I mean, if   your wife owes--"
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  My wife is not the issue here. I   hope that my wife will someday learn   o live on her allowance, which is   ample, but if she doesn't, sir, that   will be her problem, not mine, just   as your rug is your problem, just as   every bum's lot in life is his own   responsibility regardless of whom he   chooses to blame.
+I didn't blame   anyone for the loss of my legs, some   chinaman in Korea took them from me   but I went out and achieved anyway.
+   I can't solve your problems, sir,   only you can."
+	},
+	{
+		"type": "action",
+		"data": "The Dude rises."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Ah fuck it."
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  Sure!
+Fuck it!
+That's your answer!
+   Tattoo it on your forehead!
+Your   answer to everything!"
+	},
+	{
+		"type": "action",
+		"data": "The Dude is heading for the door."
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  Your \"revolution\" is over, Mr.
+   Lebowski!
+Condolences!
+The bums   lost!"
+	},
+	{
+		"type": "action",
+		"data": "As the Dude opens the door."
+	},
+	{
+		"type": "character",
+		"data": "LEBOWSKI"
+	},
+	{
+		"type": "speech",
+		"data": "  ...My advice is, do what your parents   did!
+Get a job, sir!
+The bums will   always lose-- do you hear me,   Lebowski?
+THE BUMS WILL ALWAYS--"
+	},
+	{
+		"type": "action",
+		"data": "The Dude shuts the door on the old man's bellowing to find himself--"
+	},
+	{
+		"type": "character",
+		"data": "HALLWAY"
+	},
+	{
+		"type": "speech",
+		"data": "  --in a high coffered hallway.
+Brandt   is approaching."
+	},
+	{
+		"type": "character",
+		"data": "BRANDT"
+	},
+	{
+		"type": "speech",
+		"data": "  How was your meeting, Mr. Lebowski?"
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  Okay.
+The old man told me to take   any rug in the house."
+	},
+	{
+		"type": "character",
+		"data": "WALKWAY"
+	},
+	{
+		"type": "speech",
+		"data": " A houseman with a rolled-up carpet on one shoulder goes down a stone walk that winds through the back lawn, past a swimming pool to a garage.
+Brandt and the Dude follow."
+	},
+	{
+		"type": "character",
+		"data": "BRANDT"
+	},
+	{
+		"type": "speech",
+		"data": "  Manolo will load it into your car   for you, uh, Dude."
+	},
+	{
+		"type": "character",
+		"data": "DUDE"
+	},
+	{
+		"type": "speech",
+		"data": "  It's the LeBaron."
+	},
+	{
+		"type": "character",
+		"data": "DUDE'S POINT OF VIEW"
+	},
+	{
+		"type": "speech",
+		"data": " Tracking toward the pool.
+A young woman sits facing it, her back to us, leaning forward to paint her toenails."
+	},
+	{
+		"type": "action",
+		"data": "Beyond her a black form floats in an inflatable chair in the pool."
+	}
+]

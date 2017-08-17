@@ -1,0 +1,10 @@
+{
+  "name"         : "screentoscript",
+  "version"      : "0.0.1",
+  "description"  : "",
+  "author"       : "",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}

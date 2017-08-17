@@ -1,0 +1,1919 @@
+[
+	{
+		"type": "transition",
+		"data": "FADE IN:"
+	},
+
+
+	{
+		"type": "scene",
+		"data": "EXT. DESERT -- DAY"
+	},
+	{
+		"type": "action",
+		"data": " 
+The white sun beats down on the rocky terrain. There's not a 
+cloud in the blue sky and the wind is at a standstill."
+	},
+	{
+		"type": "action",
+		"data": "
+Far in the distance, a MEDIUM SIZED FLAT-BED TRUCK makes its 
+way to the entrance of a large cavern opening. Two VULTURES 
+perched on a barren tree watch the intruders."
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. DESERT -- DAY"
+	},
+	{
+		"type": "action",
+		"data": " 
+The truck screeches to a dusty stop. Three men in matching 
+coveralls and hard hats jump from the cab: CHIEF (42, stocky, 
+weary), LANKY (32, withered) and COLLEGE BOY (23, clean cut 
+and naive)."
+	},
+	{
+		"type": "action",
+		"data": "
+Chief holds a map and glares into the howling black mouth 
+before them."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+This is it."
+	},
+
+	{
+		"type": "character",
+		"data": "LANKY"
+	},
+	{
+		"type": "action",
+		"data": "
+Why did it have to be these caves..."
+	},
+
+	{
+		"type": "character",
+		"data": "COLLEGE BOY"
+	},
+	{
+		"type": "action",
+		"data": "
+Is something wrong?"
+	},
+
+	{
+		"type": "character",
+		"data": "LANKY"
+	},
+	{
+		"type": "action",
+		"data": "
+(to College Boy) 
+Don't mind me, buddy. It's nothin'."
+	},
+	{
+		"type": "action",
+		"data": "
+Chief grabs a flashlight and moves to the back of the truck."
+	},
+	{
+		"type": "action",
+		"data": "
+The logo on the rear gate reads \"WIGWAM WASTE MANAGEMENT.\" "
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+Let's get that first barrel."
+	},
+	{
+		"type": "action",
+		"data": "
+The gate drops revealing their full load of YELLOW BARRELS 
+bearing the familiar BIOHAZARD WASTE symbol."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. CAVERN -- MOMENTS LATER"
+	},
+	{
+		"type": "action",
+		"data": " 
+College Boy and Lanky steer a cart loaded with the first 
+barrel inside. Chief's lone beam of light leads the men."
+	},
+
+	{
+		"type": "character",
+		"data": "COLLEGE BOY"
+	},
+	{
+		"type": "action",
+		"data": "
+What's with the awkward silence?"
+	},
+
+	{
+		"type": "character",
+		"data": "LANKY"
+	},
+	{
+		"type": "action",
+		"data": "
+You don't know?"
+	},
+	{
+		"type": "action",
+		"data": "
+College Boy shakes his head \"no\" and they set the cart down."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+Last winter, a man kidnapped a little 
+girl and holed up in one of these 
+caves. The cops had him pinned down 
+and began to move in. This guy started 
+shooting... but he wasn't aiming at 
+the officers... 
+(getting closer) 
+...he was firing at something inside."
+	},
+	{
+		"type": "action",
+		"data": "
+College Boy is rapt."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+When the dust cleared, all they found 
+was the little girl's shoes. 
+(beat) 
+With the feet still in 'em."
+	},
+	{
+		"type": "action",
+		"data": "
+Something GRABS College Boy's ankles, causing him to jump."
+	},
+
+	{
+		"type": "character",
+		"data": "COLLEGE BOY"
+	},
+	{
+		"type": "action",
+		"data": "
+Ahh!!!"
+	},
+	{
+		"type": "action",
+		"data": "
+Lanky's on his knees, having grabbed him from behind. The 
+two men mockingly laugh. College boy settles, embarrassed."
+	},
+
+	{
+		"type": "character",
+		"data": "COLLEGE BOY"
+	},
+	{
+		"type": "action",
+		"data": "
+Assholes."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+Hey, relax, I nearly shit myself 
+when my boss pulled that one on me."
+	},
+
+	{
+		"type": "character",
+		"data": "LANKY"
+	},
+	{
+		"type": "action",
+		"data": "
+I went well beyond nearly."
+	},
+	{
+		"type": "action",
+		"data": "
+Then, a sound. All eyes turn."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+What was that?"
+	},
+
+	{
+		"type": "character",
+		"data": "COLLEGE BOY"
+	},
+	{
+		"type": "action",
+		"data": "
+Once was plenty, fellas."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+Shhhh..."
+	},
+	{
+		"type": "action",
+		"data": "
+As Chief moves forward, pulling out his pick-axe."
+	},
+	{
+		"type": "action",
+		"data": "
+Instantly, the cave is illuminated by a white floodlight. A 
+group of GREENPEACE HIPPIE ACTIVISTS stand in the cave, 
+CHAINED TOGETHER at the waist, startling the men into screams."
+	},
+	{
+		"type": "action",
+		"data": "
+MEAN GREEN (35, crooked glasses on a face that has launched 
+a thousand craps) barks into a MINI BULLHORN that hangs around 
+her neck. She charges towards Chief."
+	},
+
+	{
+		"type": "character",
+		"data": "MEAN GREEN"
+	},
+	{
+		"type": "action",
+		"data": "
+Stop it right there! You will not 
+rape Mother Nature one more day!"
+	},
+	{
+		"type": "action",
+		"data": "
+Panicked, Chief drops his pick-axe and stumbles back."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+Whoa! Whoa! Whoa!"
+	},
+	{
+		"type": "action",
+		"data": "
+In unison, the hippies start CHANTING."
+	},
+
+	{
+		"type": "character",
+		"data": "HIPPIE GROUP"
+	},
+	{
+		"type": "action",
+		"data": "
+Mother Nature is not a whore/Don't 
+dump in her any-more/Mother Nature 
+is not a whore/Don't dump in her any- 
+more..."
+	},
+	{
+		"type": "action",
+		"data": "
+A BEARDED CAMERAMAN with a huge KEY RING on his belt, films 
+the whole event. The three men are stopped in their tracks.
+"
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+Take it easy! We have a permit!"
+	},
+
+	{
+		"type": "character",
+		"data": "MEAN GREEN"
+	},
+	{
+		"type": "action",
+		"data": "
+(handing a document) 
+And we have an injunction from the 
+State to prevent any dumping in these 
+caverns! This is virgin land! The 
+aqueducts in these caves bring 
+drinking water to our families, and 
+its piping provides drainage for our 
+farms that enrich this barren land! 
+And it won't be tainted by waste of 
+any kind! Not now! Not ever!"
+	},
+	{
+		"type": "action",
+		"data": "
+Chief, shaken, confirms the injunction and hands it back."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+Fine, just back off!"
+	},
+	{
+		"type": "action",
+		"data": "
+He snaps his fingers, motioning to the barrel."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+Let's roll... Now-now-now!"
+	},
+	{
+		"type": "action",
+		"data": "
+Backing away, looking to Mean Green."
+	},
+
+	{
+		"type": "character",
+		"data": "CHIEF"
+	},
+	{
+		"type": "action",
+		"data": "
+How do you guys always know where 
+we're going?"
+	},
+
+	{
+		"type": "character",
+		"data": "MEAN GREEN"
+	},
+	{
+		"type": "action",
+		"data": "
+(with a smirk) 
+I'll tell ya next time! NOW MOVE IT!"
+	},
+	{
+		"type": "action",
+		"data": "
+Hastily, the men roll the barrel out of the cave."
+	},
+
+	{
+		"type": "character",
+		"data": "MEAN GREEN"
+	},
+	{
+		"type": "action",
+		"data": "
+Score one for the green team!!!"
+	},
+	{
+		"type": "action",
+		"data": "
+The hippies let out a spirited cheer. One pulls out a 
+tambourine, drums the beat for KUM BI YA. The rest join in 
+the victorious chant as they watch the three men hop in their 
+truck and peel away."
+	},
+
+	{
+		"type": "character",
+		"data": "BEARDED CAMERAMAN"
+	},
+	{
+		"type": "action",
+		"data": "
+Hey, man, that was righteous, but I 
+need a shot with the sign up."
+	},
+	{
+		"type": "action",
+		"data": "
+At the end of the human chain, an earthy woman, FUZZY, moves 
+to hang a GREENPEACE sign. Mean Green strokes the cave wall."
+	},
+
+	{
+		"type": "character",
+		"data": "MEAN GREEN"
+	},
+	{
+		"type": "action",
+		"data": "
+We saved you today, ol' gal."
+	},
+	{
+		"type": "action",
+		"data": "
+Fuzzy hammers the sign in, but hits too hard, causing a breach 
+in the rock wall."
+	},
+
+	{
+		"type": "character",
+		"data": "FUZZY"
+	},
+	{
+		"type": "action",
+		"data": "
+Oh, fuck!"
+	},
+
+	{
+		"type": "character",
+		"data": "MEAN GREEN"
+	},
+	{
+		"type": "action",
+		"data": "
+Sister, why do you always swing for 
+the fences?"
+	},
+
+	{
+		"type": "character",
+		"data": "FUZZY"
+	},
+	{
+		"type": "action",
+		"data": "
+(eyeing breach) 
+It's okay, but I... I think I see 
+something in there... something shiny."
+	},
+	{
+		"type": "action",
+		"data": "
+Fuzzy puts her face up to the hole for a closer look. The 
+rest of the hippie-chain moves in closer."
+	},
+
+	{
+		"type": "character",
+		"data": "FUZZY"
+	},
+	{
+		"type": "action",
+		"data": "
+Oh my, it looks like diamonds!"
+	},
+	{
+		"type": "action",
+		"data": "
+CHOMP! A set of giant, ravenous teeth bite into Fuzzy's skull. 
+Blood SPLATTERS on the hippies."
+	},
+	{
+		"type": "action",
+		"data": "
+Bearded Cameraman jumps to pull Fuzzy from the breach."
+	},
+	{
+		"type": "action",
+		"data": "
+Fuzzy's body is YANKED into the hole. The group tumbles 
+forward."
+	},
+	{
+		"type": "action",
+		"data": "
+Mean Green tries to stop herself from sliding, but can't."
+	},
+	{
+		"type": "action",
+		"data": "
+One by one, the hippies are being dragged to their death."
+	},
+	{
+		"type": "action",
+		"data": "
+Ripping, tearing, and howling echoes off the walls."
+	},
+	{
+		"type": "action",
+		"data": "
+Bearded Cameraman stumbles back. Mean Green spots him."
+	},
+
+	{
+		"type": "character",
+		"data": "MEAN GREEN"
+	},
+	{
+		"type": "action",
+		"data": "
+Give me the keys!!!"
+	},
+	{
+		"type": "action",
+		"data": "
+Bearded Camerman just stares at her in shock. He's missing 
+both his arms."
+	},
+	{
+		"type": "action",
+		"data": "
+Mean Green lunges and grabs Chief's dropped pick-axe. She 
+HAMMERS at the chain around her waist."
+	},
+	{
+		"type": "action",
+		"data": "
+Foot by foot, she's dragged closer. At the last second, she 
+BREAKS the chain, popping herself free."
+	},
+	{
+		"type": "action",
+		"data": "
+She spins, running for safety. A guttural HOWL behind her 
+fills the cavern. Mean Green sprints toward the cave opening. 
+She's gonna make it. Only a few more feet. And then... JERK!"
+	},
+	{
+		"type": "action",
+		"data": "
+Something grabs her neck and YANKS her back into the darkness. 
+The whiplash sends her bloody BULLHORN flying into the light. 
+As it lands, it lets out one last weak HONK..."
+	},
+
+	{
+		"type": "transition",
+		"data": "CUT TO BLACK:"
+	},
+
+	{
+		"type": "character",
+		"data": "SUPERIMPOSED: BASED ON A TRUE STORY"
+	},
+	{
+		"type": "action",
+		"data": " 
+The title SHATTERS..."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. CRASHED CAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+P.O.V. - We frantically EMERGE from the burning wreck... 
+RUN from the crash over desolate prairie land..."
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+Neon light flashes UNITED NATIONS TAVERN. Laughing and music 
+emanates. Besides the bar, there's nothing around for miles."
+	},
+	{
+		"type": "action",
+		"data": "
+A 1985, pristine black Pontiac Trans-Am with a Golden Eagle 
+on the hood pulls up. The rear bumper sticker reads \"MY OTHER "
+	},
+	{
+		"type": "character",
+		"data": "TOY HAS TITS.\""
+	},
+	{
+		"type": "action",
+		"data": " 
+A weasel-like man with a fat belly and tank-top emerges from 
+the hot rod carrying a VELVET POOL CUE CASE. Freeze on him."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: BOZO"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 32"
+	},
+	{
+		"type": "character",
+		"data": "JOB: UNEMPLOYED"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: TOWN JACKASS"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: DEAD BY DAWN"
+	},
+	{
+		"type": "action",
+		"data": " 
+The rest of the parking lot is scattered with cars and pickup 
+trucks. Bozo lazily makes his way to the bar and pushes 
+through the front entrance --"
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- CONTINUOUS"
+	},
+	{
+		"type": "action",
+		"data": " 
+Bozo passes a man dressed in a cheap suit and standing well 
+over six foot five with frazzled black hair and olive skin."
+	},
+	{
+		"type": "action",
+		"data": "
+Talking with a thick Greek accent, he pleads into a pay phone."
+	},
+
+	{
+		"type": "character",
+		"data": "COACH"
+	},
+	{
+		"type": "action",
+		"data": "
+(into pay phone) 
+They took my laptop with my PowerPoint 
+presentation, my Blackberry, my 
+cell... And to top it off, my car 
+crapped out on the side of the road! 
+I'm not making the conference and I 
+have fourteen leads waiting for me. 
+You gotta help me out here. I'm not 
+kidding, I've have fourteen PRIMO 
+leads waiting in the lobby of the 
+Mariott... MARIOTT..."
+	},
+	{
+		"type": "action",
+		"data": "
+Freeze on him."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: COACH"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 42"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: LIFE COACH & MOTIVATIONAL SPEAKER"
+	},
+	{
+		"type": "character",
+		"data": "FUN FACT: OFTEN CALLED THE GREEK TONY ROBBINS"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: STAY FAR, FAR AWAY"
+	},
+	{
+		"type": "action",
+		"data": " 
+CLICK. The pay phone goes dead."
+	},
+
+	{
+		"type": "character",
+		"data": "COACH"
+	},
+	{
+		"type": "action",
+		"data": "
+Son of a -- 
+(deep breath, soothing) 
+In with anger, out with love."
+	},
+	{
+		"type": "action",
+		"data": "
+Further into the bar, a man in a wheelchair loads a quarter 
+into an old jukebox, but he is instantly pushed away by Bozo."
+	},
+	{
+		"type": "action",
+		"data": "
+Freeze on him."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: PARA"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 29"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: FIREWORKS DEALER"
+	},
+	{
+		"type": "character",
+		"data": "COMIC BOOK COLLECTION: RIDICULOUSLY HUGE"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: THEY WOULDN'T KILL A CRIPPLE... WOULD THEY?"
+	},
+	{
+		"type": "action",
+		"data": " 
+Bozo's tank-top reads, \"ONLY COOL CHICKS CAN DO ME.\""
+	},
+
+	{
+		"type": "character",
+		"data": "PARA"
+	},
+	{
+		"type": "action",
+		"data": "
+(rolling away) 
+Hey..."
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+Shut up, fag."
+	},
+	{
+		"type": "action",
+		"data": "
+Bozo punches in his selection. EDGY CAT (34, samurai pony 
+tail, don't you dare call him an alcoholic) stands by the 
+bar's POOL TABLE powdering his cue."
+	},
+
+	{
+		"type": "character",
+		"data": "EDGY CAT"
+	},
+	{
+		"type": "action",
+		"data": "
+(to Bozo) 
+You're late!"
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+Don't dilly-dally then. Rack 'em!"
+	},
+	{
+		"type": "action",
+		"data": "
+The CD spins and an 1980s heavy metal classic KICKS IN."
+	},
+	{
+		"type": "action",
+		"data": "
+Bozo, mouthing the lyrics, struts away."
+	},
+	{
+		"type": "action",
+		"data": "
+NOTE: Music plays over all the bar sequences."
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. PRAIRIE LAND -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+P.O.V. - We continue to run. Rapid breathing."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+Beer Guy (kinda handsome... just kinda) sets a keg of beer 
+behind the bar. Freeze on him."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: BEER GUY"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 32"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: BEER GUY/PART-TIME HOST AT RED LOBSTER"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: WIMPS AND DORKS ARE THE FIRST TO GO... HE'S"
+	},
+	{
+		"type": "character",
+		"data": "BOTH"
+	},
+	{
+		"type": "action",
+		"data": " 
+He talks with BARTENDER (thinning hair, chiseled face, big 
+earring) who preps a drink."
+	},
+
+	{
+		"type": "character",
+		"data": "BEER GUY"
+	},
+	{
+		"type": "action",
+		"data": "
+I mean, we'd been together for so 
+long and then... bang! She drops me. 
+Since then, it's been like a damn 
+country song: she's gone, the car's 
+repossessed, and a father figure 
+made a pass at me. I'm not saying I 
+ever had it. But I have definitely 
+lost it. 
+(beat) 
+Now I haul this swill from armpit to 
+armpit. I used to be a model for 
+Christ's sake."
+	},
+	{
+		"type": "action",
+		"data": "
+Coach has been eavesdropping on Beer Guy and approaches."
+	},
+
+	{
+		"type": "character",
+		"data": "COACH"
+	},
+	{
+		"type": "action",
+		"data": "
+For what, may I ask?"
+	},
+
+	{
+		"type": "character",
+		"data": "BEER GUY"
+	},
+	{
+		"type": "action",
+		"data": "
+JC Penny. Spring wear."
+	},
+	{
+		"type": "action",
+		"data": "
+Beer Guy then mimics throwing a sport coat over his shoulder 
+and delivering his \"model\" cheese smile."
+	},
+
+	{
+		"type": "character",
+		"data": "COACH"
+	},
+	{
+		"type": "action",
+		"data": "
+You know, Chach, catching you at 
+this low point is pure serendipity."
+	},
+
+	{
+		"type": "character",
+		"data": "BEER GUY"
+	},
+	{
+		"type": "action",
+		"data": "
+Why is that?"
+	},
+
+	{
+		"type": "character",
+		"data": "COACH"
+	},
+	{
+		"type": "action",
+		"data": "
+Because I take the rubble of man and 
+build superstars. In my briefcase 
+here is a doorway to a self-help 
+sensation. Give me a minute, because 
+I'd like to buy you a drink and change 
+your life forever. I have a brochure --"
+	},
+
+	{
+		"type": "character",
+		"data": "BARTENDER"
+	},
+	{
+		"type": "action",
+		"data": "
+Save it. We don't deal in pamphlets 
+'round here. We stick to chemistry. 
+And his drinks are on me."
+	},
+	{
+		"type": "action",
+		"data": "
+Bartender puts a shot in front of Beer Guy. Behind him, a 
+mounted DEER HEAD is prominently displayed. Freeze on him."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: BARTENDER"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 50"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: BARTENDER"
+	},
+	{
+		"type": "character",
+		"data": "FUN FACT: SHOT 4 TIMES, STABBED 6 TIMES, BIT BY 1 SQUIRREL"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: READY TO WEAR"
+	},
+	{
+		"type": "action",
+		"data": " 
+With Coach stumped, Bartender turns to Beer Guy."
+	},
+
+	{
+		"type": "character",
+		"data": "BARTENDER"
+	},
+	{
+		"type": "action",
+		"data": "
+Was that the last keg?"
+	},
+
+	{
+		"type": "character",
+		"data": "BEER GUY"
+	},
+	{
+		"type": "action",
+		"data": "
+Yup, one keg of Beast for the 
+basement, then the truck's dry."
+	},
+
+	{
+		"type": "character",
+		"data": "BARTENDER"
+	},
+	{
+		"type": "action",
+		"data": "
+If you're stayin', move the truck, 
+boss gets pissed about you using 
+primo parking."
+	},
+	{
+		"type": "action",
+		"data": "
+Beer Guy downs his shot and hoists the lone keg into the 
+waiting keg elevator."
+	},
+
+	{
+		"type": "character",
+		"data": "BEER GUY"
+	},
+	{
+		"type": "action",
+		"data": "
+Right, 'cause this joint's hopping."
+	},
+	{
+		"type": "action",
+		"data": "
+He hits a button and the keg slowly lowers to the basement."
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. PRAIRIE LAND -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+P.O.V. - We jump over a bush and crash in the dusty earth."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+A glass of beer slides down the bar. A hand GRABS it and 
+puts it on a tray. The woman is pretty though haggard, stained 
+apron and dirty blond hair. Freeze on her."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: TUFFY"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 25"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: CAREER WAITRESS"
+	},
+	{
+		"type": "character",
+		"data": "FUN FACT: SERVED 100 HOURS OF COMMUNITY SERVICE FOR ILLEGAL"
+	},
+	{
+		"type": "character",
+		"data": "DUMPING OF MANURE... IN EX-HUSBAND'S CAR"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: BADASS-IN-WAITING"
+	},
+	{
+		"type": "action",
+		"data": " 
+Tuffy carries the tray toward a table. She passes a TV mounted 
+on the wall."
+	},
+	{
+		"type": "action",
+		"data": "
+ON TV: A NEWSCASTER, dressed in a coat and tie, talks."
+	},
+
+	{
+		"type": "character",
+		"data": "NEWSCASTER"
+	},
+	{
+		"type": "action",
+		"data": "
+...the search for the missing 
+protesters will be further complicated 
+by the unstable conditions of these 
+deep tunnels. Thus far, no sign of 
+life has been detected, yet town 
+officials are still optimistic."
+	},
+	{
+		"type": "action",
+		"data": "
+Newscaster spins and an ECLIPSE GRAPHIC appears on screen."
+	},
+
+	{
+		"type": "character",
+		"data": "NEWSCASTER"
+	},
+	{
+		"type": "action",
+		"data": "
+On a brighter note, or should I say 
+a darker note, tomorrow's solar 
+eclipse will bring out adults and 
+children alike for a citywide fair 
+of this metrological event. Stay 
+tuned for our man on the street to 
+take a closer look..."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- BASEMENT -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+Beer Guy pulls the keg from the elevator and places it next 
+to other kegs. A faint conversation brews behind a curtain. 
+BOSS MAN (paunchy, sweaty, ugly) and ROADIE (English accent, 
+light hair, leather skin, thin build) talk shop."
+	},
+
+	{
+		"type": "character",
+		"data": "BOSS MAN (O.S.)"
+	},
+	{
+		"type": "action",
+		"data": "
+Listen, bud. I got a load ready to 
+move and your man's not here."
+	},
+
+	{
+		"type": "character",
+		"data": "ROADIE (O.S.)"
+	},
+	{
+		"type": "action",
+		"data": "
+He's coming. Relax. And if he doesn't 
+show --"
+	},
+
+	{
+		"type": "character",
+		"data": "BOSS MAN (O.S.)"
+	},
+	{
+		"type": "action",
+		"data": "
+We got a problem."
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. PRAIRIE LAND -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+P.O.V. - We are trucking... labored breathing..."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+Tuffy moves to a table where ADULTERER (bushy mustache, 
+sweater vest, dress shirt) sits with TRAMPY (designer glasses, 
+hair pulled back, tight blue business suit, closet tramp). "
+	},
+	{
+		"type": "action",
+		"data": "
+Freeze on Trampy."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: TRAMPY"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 19"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: BANK TELLER"
+	},
+	{
+		"type": "character",
+		"data": "MOTTO: THE SHORTER THE SKIRT, THE HIGHER THE RAISE"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: BETTER THAN ADULTERER"
+	},
+
+	{
+		"type": "character",
+		"data": "TRAMPY"
+	},
+	{
+		"type": "action",
+		"data": "
+He said there was no reason I had to 
+stay a teller and that if I did good 
+work and didn't mess up, I could 
+become an assistant manager within 
+three years. 
+(pause) 
+Can you believe that?"
+	},
+
+	{
+		"type": "character",
+		"data": "ADULTERER"
+	},
+	{
+		"type": "action",
+		"data": "
+That sounds great."
+	},
+	{
+		"type": "action",
+		"data": "
+Freeze on him."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: ADULTERER"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 36"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: HIGH SCHOOL P.E. INSTRUCTOR"
+	},
+	{
+		"type": "character",
+		"data": "NICKNAME: DR. BLUMPKIN"
+	},
+	{
+		"type": "character",
+		"data": "GENITALS: SHAVED"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: WORSE THAN TRAMPY"
+	},
+	{
+		"type": "action",
+		"data": " 
+Adulterer reaches into his pocket to pay the tab, but he 
+inadvertently pulls out his hidden WEDDING RING."
+	},
+
+	{
+		"type": "character",
+		"data": "TRAMPY"
+	},
+	{
+		"type": "action",
+		"data": "
+That sounds like bullshit! I could 
+be an assistant manager at The Lake 
+Arrowhead Casino for knowing the 
+fuckin' alphabet to G! I'll be twenty 
+in three months..."
+	},
+	{
+		"type": "action",
+		"data": "
+The damning wedding band falls and bounces. As it rolls, 
+Tuffy, Trampy and Adulterer watch."
+	},
+	{
+		"type": "action",
+		"data": "
+The ring stops, standing still on its side."
+	},
+	{
+		"type": "action",
+		"data": "
+Trampy seethes as she chooses which obscenity to deliver."
+	},
+	{
+		"type": "action",
+		"data": "
+Adulterer slides a wad of cash to Tuffy."
+	},
+
+	{
+		"type": "character",
+		"data": "ADULTERER"
+	},
+	{
+		"type": "action",
+		"data": "
+Just bring the whole bottle."
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. PRAIRIE LAND -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+P.O.V. - Sprinting and wheezing. The bar lights are ahead."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+Tuffy walks back over to the bar adding Adulterer's cash to 
+a fat roll of money. BELLE (stringy blond hair, cute face, 
+brand-spanking new employee) looks up with surprise."
+	},
+	{
+		"type": "action",
+		"data": "
+Freeze on her."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: BELLE"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 21"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: WAITRESS"
+	},
+	{
+		"type": "character",
+		"data": "GOAL: PLAY BELLE IN STAGE VERSION OF \"BEAUTY AND THE BEAST\""
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: SAME ODDS AS PLAYING BELLE IN STAGE VERSION"
+	},
+	{
+		"type": "character",
+		"data": "OF \"BEAUTY AND THE BEAST\""
+	},
+
+	{
+		"type": "character",
+		"data": "BELLE"
+	},
+	{
+		"type": "action",
+		"data": "
+If I could made that kind of money, 
+I'd be in Hollywood next week."
+	},
+	{
+		"type": "action",
+		"data": "
+Boss Man walks by and nods to Tuffy, making his way to the 
+rickety side-staircase to the SECOND FLOOR. Tuffy grinds her 
+teeth and moves to the staircase."
+	},
+
+	{
+		"type": "character",
+		"data": "TUFFY"
+	},
+	{
+		"type": "action",
+		"data": "
+'Round here, there are ways."
+	},
+	{
+		"type": "action",
+		"data": "
+Boss Man winks at Belle. Pure sleaze."
+	},
+	{
+		"type": "action",
+		"data": "
+Freeze on him."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: BOSS MAN"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 47"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: BAR OWNER"
+	},
+	{
+		"type": "character",
+		"data": "MOTTO: IF THERE'S GRASS IN THE FIELD, PLAY BALL"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: REGULAR OR EXTRA-CRISPY?"
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. PRAIRIE LAND -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+P.O.V. - Running, approaching the distant bar..."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+Bozo looks grimly at a pile of CASH on the ledge of the pool 
+table. Edgy Cat sinks the eighth shot of a NINE BALL game."
+	},
+
+	{
+		"type": "character",
+		"data": "EDGY CAT"
+	},
+	{
+		"type": "action",
+		"data": "
+That cash is gonna look much better 
+in my pocket."
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+(re: mounted head) 
+Ya know, that deer only looks scared 
+when you're in the room."
+	},
+	{
+		"type": "action",
+		"data": "
+Para rolls up behind Edgy."
+	},
+
+	{
+		"type": "character",
+		"data": "PARA"
+	},
+	{
+		"type": "action",
+		"data": "
+Excuse me, please."
+	},
+
+	{
+		"type": "character",
+		"data": "EDGY CAT"
+	},
+	{
+		"type": "action",
+		"data": "
+Jesus!"
+	},
+	{
+		"type": "action",
+		"data": "
+Edgy looks to Para, distracted. Bozo quickly replaces the 
+WHITE CUE BALL with one hidden in his waistline."
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+P.O.V. - The bar's a quarter mile away."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+Para's chair back aims at the pool table pocket of which 
+Edgy Cat is lining up for the winning shot."
+	},
+
+	{
+		"type": "character",
+		"data": "EDGY CAT"
+	},
+	{
+		"type": "action",
+		"data": "
+That's all she wrote..."
+	},
+	{
+		"type": "action",
+		"data": "
+SMACK! The nine ball sinks in the pocket, the cue ball 
+ricochets away as intended."
+	},
+	{
+		"type": "action",
+		"data": "
+Para flips a switch under his wheelchair's arm rest. The cue 
+ball strays ODDLY into the pocket near Para. Scratch."
+	},
+
+	{
+		"type": "character",
+		"data": "EDGY CAT"
+	},
+	{
+		"type": "action",
+		"data": "
+What?!"
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+Ohhh, now that's a rough one."
+	},
+
+	{
+		"type": "character",
+		"data": "EDGY CAT"
+	},
+	{
+		"type": "action",
+		"data": "
+That's motherfuckin' impossible!"
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+(crude Oriental accent) 
+Yoh anga will be yoh downfah. Go 
+again?"
+	},
+
+	{
+		"type": "character",
+		"data": "EDGY CAT"
+	},
+	{
+		"type": "action",
+		"data": "
+Goddamn it! NO!"
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+Oh, come on. Crape Diem!"
+	},
+	{
+		"type": "action",
+		"data": "
+Bozo takes the cash from the table. Edgy Cat sulks away 
+cursing to himself and moves to the bar."
+	},
+	{
+		"type": "action",
+		"data": "
+Roadie looks on, sipping a beer."
+	},
+	{
+		"type": "action",
+		"data": "
+Freeze on Roadie."
+	},
+
+	{
+		"type": "character",
+		"data": "NAME: ROADIE"
+	},
+	{
+		"type": "character",
+		"data": "AGE: 38"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: BAND ROADIE"
+	},
+	{
+		"type": "character",
+		"data": "FUN FACT: TOURED WITH BON JOVI... SLIPPERY WHEN WET ERA"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: A FEW DOG YEARS"
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. PRAIRIE LAND -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+P.O.V. - Still running. The bar is getting closer."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+Bozo HITS the table of GRANDPA (elderly, white hair, bushy 
+white mustache) and GRANDMA (curly white hair, glasses)."
+	},
+	{
+		"type": "action",
+		"data": "
+Freeze on them."
+	},
+
+	{
+		"type": "character",
+		"data": "NAMES: GRANDPA AND GRANDMA"
+	},
+	{
+		"type": "character",
+		"data": "AGES: 88 AND 86"
+	},
+	{
+		"type": "character",
+		"data": "OCCUPATION: RETIRED"
+	},
+	{
+		"type": "character",
+		"data": "FUN FACT: BEEN TOGETHER SINCE THE DEPRESSION"
+	},
+	{
+		"type": "character",
+		"data": "LIFE EXPECTANCY: THEY DON'T BUY GREEN BANANAS"
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+Wake up! Check your pants!"
+	},
+
+	{
+		"type": "character",
+		"data": "GRANDPA"
+	},
+	{
+		"type": "action",
+		"data": "
+Get outta here."
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+(mocking) 
+What's that? Wha'cha say? Huh? 
+(to Grandma) 
+How much for the whole night, Grandma?"
+	},
+
+	{
+		"type": "character",
+		"data": "GRANDMA"
+	},
+	{
+		"type": "action",
+		"data": "
+You should be so lucky."
+	},
+
+	{
+		"type": "character",
+		"data": "GRANDPA"
+	},
+	{
+		"type": "action",
+		"data": "
+(re: his fists) 
+This one will stun ya, but this one 
+will put ya to sleep."
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+Whoa!"
+	},
+	{
+		"type": "action",
+		"data": "
+Bozo approaches OLD VET (52, long hair with bandanna, dirty 
+beard) HARLEY MOM, (45, bruiser, grizzled, tough as a saddle) 
+and DRUNK GUY at the bar. The sad trio toss peanut shells 
+into three nearby tall, fat peanut barrels."
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+You boys wanna try your luck at the 
+loot?"
+	},
+	{
+		"type": "action",
+		"data": "
+Harley mom is offended. Not a word from the others."
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+Come on, I'll even throw with my 
+left hand."
+	},
+	{
+		"type": "action",
+		"data": "
+He turns in disappointment."
+	},
+
+	{
+		"type": "character",
+		"data": "BOZO"
+	},
+	{
+		"type": "action",
+		"data": "
+Nothin' but a bunch of butts and 
+pussies in here!"
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. PRAIRIE LAND -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+P.O.V. - The bar is close -- we leap a ditch."
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. BAR -- NIGHT"
+	},
+	{
+		"type": "action",
+		"data": " 
+KRASH! Belle DROPS a tray full of drinks behind the bar."
+	},
+
+	{
+		"type": "character",
+		"data": "BELLE"
+	},
+	{
+		"type": "action",
+		"data": "
+Shit! Shit! Shit!"
+	}
+]

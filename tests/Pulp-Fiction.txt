@@ -1,0 +1,1696 @@
+[
+	{
+		"type": "scene",
+		"data": "INT. COFFEE SHOP  MORNING"
+	},
+
+	{
+		"type": "misc",
+		"data": " 
+A normal Denny's, Spires-like coffee shop in Los Angeles. 
+It's about 9:00 in the morning. While the place isn't jammed, 
+there's a healthy number of people drinking coffee, munching 
+on bacon and eating eggs."
+	},
+	{
+		"type": "misc",
+		"data": "
+Two of these people are a YOUNG MAN and a YOUNG WOMAN. The 
+Young Man has a slight working-class English accent and, 
+like his fellow countryman, smokes cigarettes like they're 
+going out of style."
+	},
+	{
+		"type": "misc",
+		"data": "
+It is impossible to tell where the Young Woman is from or 
+how old she is; everything she does contradicts something 
+she did. The boy and girl sit in a booth. Their dialogue is 
+to be said in a rapid pace \"HIS GIRL FRIDAY\" fashion."
+	},
+
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+No, forget it, it's too risky. I'm 
+through doin' that shit."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+You always say that, the same thing 
+every time: never again, I'm through, 
+too dangerous."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I know that's what I always say. I'm 
+always right too, but "
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+ but you forget about it in a day 
+or two -"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+ yeah, well, the days of me 
+forgittin' are over, and the days of 
+me rememberin' have just begun."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+When you go on like this, you know 
+what you sound like?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I sound like a sensible fucking man, 
+is what I sound like."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(imitates a duck)"
+	},
+	{
+		"type": "speech",
+		"data": "
+You sound like a duck.  
+Quack, quack, quack, quack, quack, 
+quack, quack..."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Well take heart, 'cause you're never 
+gonna hafta hear it again. Because 
+since I'm never gonna do it again, 
+you're never gonna hafta hear me 
+quack about how I'm never gonna do 
+it again."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+After tonight."
+	},
+	{
+		"type": "action",
+		"data": "The boy and girl laugh, their laughter putting a pause in 
+there, back and forth."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(with a smile)"
+	},
+	{
+		"type": "speech",
+		"data": " 
+Correct. I got all tonight to quack."
+	},
+	{
+		"type": "action",
+		"data": "A WAITRESS comes by with a pot of coffee."
+	},
+	{
+		"type": "character",
+		"data": "WAITRESS"
+	},
+	{
+		"type": "speech",
+		"data": "
+Can I get anybody anymore coffee?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Oh yes, thank you."
+	},
+	{
+		"type": "action",
+		"data": "The Waitress pours the Young Woman's coffee. The Young Man 
+lights up another cigarette."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I'm doin' fine."
+	},
+	{
+		"type": "action",
+		"data": "The Waitress leaves. The Young Man takes a drag off of his 
+smoke.The Young Woman pours a ton of cream and sugar into her 
+coffee.The Young Man goes right back into it."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I mean the way it is now, you're 
+takin' the same fuckin' risk as when 
+you rob a bank. You take more of a 
+risk. Banks are easier!
+Federal 
+banks aren't supposed to stop you 
+anyway, during a robbery. They're 
+insured, why should they care? You 
+don't even need a gun in a federal 
+bank. I heard about this guy, walked 
+into a federal bank with a portable 
+phone, handed the phone to the teller, 
+the guy on the other end of the phone 
+said: \"We got this guy's little girl, 
+and if you don't give him all your 
+money, we're gonna kill 'er.\""
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Did it work?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Fuckin' A it worked, that's what I'm 
+talkin' about! Knucklehead walks in 
+a bank with a telephone, not a pistol, 
+not a shotgun, but a fuckin' phone, 
+cleans the place out, and they don't 
+lift a fuckin' finger."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Did they hurt the little girl?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I don't know. There probably never 
+was a little girl  the point of the 
+story isn't the little girl. The 
+point of the story is they robbed 
+the bank with a telephone."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+You wanna rob banks?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I'm not sayin' I wanna rob banks, 
+I'm just illustrating that if we 
+did, it would be easier than what we 
+been doin'."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+So you don't want to be a bank robber?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Naw, all those guys are goin' down 
+the same road, either dead or servin' 
+twenty."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+And no more liquor stores?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+What have we been talking about? 
+Yeah, no more-liquor-stores. Besides, 
+it ain't the giggle it usta be. Too 
+many foreigners own liquor stores. 
+Vietnamese, Koreans, they can't 
+fuckin' speak English. You tell 'em: 
+\"Empty out the register,\" and they 
+don't know what it fuckin' means. 
+They make it too personal. We keep 
+on, one of those gook motherfuckers' 
+gonna make us kill 'em."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I'm not gonna kill anybody."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I don't wanna kill anybody either. 
+But they'll probably put us in a 
+situation where it's us of them. And 
+if it's not the gooks, it these old 
+Jews who've owned the store for 
+fifteen fuckin' generations. Ya got 
+Grandpa Irving sittin' behind the 
+counter with a fuckin' Magnum. Try 
+walkin' into one of those stores 
+with nothin' but a telephone, see 
+how far it gets you. Fuck it, forget 
+it, we're out of it."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Well, what else is there, day jobs?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(laughing)"
+	},
+	{
+		"type": "speech",
+		"data": " 
+Not this life."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Well what then?"
+	},
+	{
+		"type": "action",
+		"data": "He calls to the Waitress."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Garcon! Coffee!"
+	},
+	{
+		"type": "action",
+		"data": "Then looks to his girl."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+This place."
+	},
+	{
+		"type": "action",
+		"data": "The Waitress comes by, pouring him some more."
+	},
+	{
+		"type": "character",
+		"data": "WAITRESS"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(snotty)"
+	},
+	{
+		"type": "speech",
+		"data": " 
+\"Garcon\" means boy."
+	},
+	{
+		"type": "action",
+		"data": "She splits."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Here? It's a coffee shop."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+What's wrong with that? People never 
+rob restaurants, why not? Bars, liquor 
+stores, gas stations, you get your 
+head blown off stickin' up one of 
+them. Restaurants, on the other hand, 
+you catch with their pants down. 
+They're not expecting to get robbed, 
+or not as expecting."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(taking to idea)"
+	},
+	{
+		"type": "speech",
+		"data": " 
+I bet in places like this you could 
+cut down on the hero factor."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Correct. Just like banks, these places 
+are insured. The managers don't give 
+a fuck, they're just tryin' to get 
+ya out the door before you start 
+pluggin' diners.
+Waitresses, forget 
+it, they ain't takin' a bullet for 
+the register. Busboys, some wetback 
+gettin' paid a dollar fifty a hour 
+gonna really give a fuck you're 
+stealin' from the owner. Customers 
+are sittin' there with food in their 
+mouths, they don't know what's goin' 
+on. One minute they're havin' a Denver 
+omelet, next minute somebody's 
+stickin' a gun in their face."
+	},
+	{
+		"type": "action",
+		"data": "The Young Woman visibly takes in the idea. The Young Man 
+continues in a low voice."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+See, I got the idea last liquor store 
+we stuck up. 'Member all those 
+customers kept comin' in?"
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Yeah."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Then you got the idea to take 
+everybody's wallet."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Uh-huh."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+That was a good idea."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Thanks."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+We made more from the wallets then 
+we did the register."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Yes we did."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+A lot of people go to restaurants."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+A lot of wallets."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Pretty smart, huh?"
+	},
+	{
+		"type": "action",
+		"data": "The Young Woman scans the restaurant with this new 
+information.She sees all the PATRONS eating, lost in conversations. The 
+tired WAITRESS, taking orders. The BUSBOYS going through the 
+motions, collecting dishes. The MANAGER complaining to the 
+COOK about something. A smiles breaks out on the Young Woman's 
+face."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(into it)"
+	},
+	{
+		"type": "speech",
+		"data": "
+Pretty smart.  
+I'm ready, let's go, right here, 
+right now."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Remember, same as before, you're 
+crowd control, I handle the employees."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+Got it."
+	},
+	{
+		"type": "action",
+		"data": "They both take out their .32-caliber pistols and lay them on 
+the table. He looks at her and she back at him."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG WOMAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I love you, Pumpkin."
+	},
+	{
+		"type": "character",
+		"data": "YOUNG MAN"
+	},
+	{
+		"type": "speech",
+		"data": "
+I love you, Honey Bunny."
+	},
+	{
+		"type": "action",
+		"data": "And with that, Pumpkin and Honey Bunny grab their weapons, 
+stand up and rob the restaurant. Pumpkin's robbery persona 
+is that of the in-control professional. Honey Bunny's is 
+that of the psychopathic, hair-triggered, loose cannon."
+	},
+	{
+		"type": "character",
+		"data": "PUMPKIN"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(yelling to all)"
+	},
+	{
+		"type": "speech",
+		"data": " 
+Everybody be cool this is a robbery!"
+	},
+	{
+		"type": "character",
+		"data": "HONEY BUNNY"
+	},
+	{
+		"type": "speech",
+		"data": "
+Any of you fuckin' pricks move and 
+I'll execute every one of you 
+motherfuckers!
+Got that?"
+	},
+	{
+		"type": "transition",
+		"data": "CUT TO:"
+	},
+
+	{
+		"type": "transition",
+		"data": "CREDIT SEQUENCE:"
+	},
+
+	{
+		"type": "character",
+		"data": "\"PULP FICTION\""
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. '74 CHEVY (MOVING)  MORNING"
+	},
+	{
+		"type": "misc",
+		"data": " 
+An old gas guzzling, dirty, white 1974 Chevy Nova BARRELS 
+down a homeless-ridden street in Hollywood. In the front 
+seat are two young fellas  one white, one black  both 
+wearing cheap black suits with thin black ties under long 
+green dusters. Their names are VINCENT VEGA (white) and JULES 
+WINNFIELD (black). Jules is behind the wheel."
+	},
+
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+ Okay now, tell me about the hash 
+bars?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+What so you want to know?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Well, hash is legal there, right?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Yeah, it's legal, but is ain't a 
+hundred percent legal. I mean you 
+can't walk into a restaurant, roll a 
+joint, and start puffin' away. You're 
+only supposed to smoke in your home 
+or certain designated places."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Those are hash bars?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Yeah, it breaks down like this: it's 
+legal to buy it, it's legal to own 
+it and, if you're the proprietor of 
+a hash bar, it's legal to sell it. 
+It's legal to carry it, which doesn't 
+really matter 'cause  get a load of 
+this  if the cops stop you, it's 
+illegal for this to search you. 
+Searching you is a right that the 
+cops in Amsterdam don't have."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+That did it, man  I'm fuckin' goin', 
+that's all there is to it."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+You'll dig it the most. But you know 
+what the funniest thing about Europe 
+is?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+What?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+It's the little differences. A lotta 
+the same shit we got here, they got 
+there, but there they're a little 
+different."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Examples?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Well, in Amsterdam, you can buy beer 
+in a movie theatre. And I don't mean 
+in a paper cup either. They give you 
+a glass of beer, like in a bar. In 
+Paris, you can buy beer at 
+MacDonald's. Also, you know what 
+they call a Quarter Pounder with 
+Cheese in Paris?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+They don't call it a Quarter Pounder 
+with Cheese?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+No, they got the metric system there, 
+they wouldn't know what the fuck a 
+Quarter Pounder is."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+What'd they call it?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Royale with Cheese."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(repeating)"
+	},
+	{
+		"type": "speech",
+		"data": " 
+Royale with Cheese. What'd they call 
+a Big Mac?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Big Mac's a Big Mac, but they call 
+it Le Big Mac."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Le Big Mac. What do they call a 
+Whopper?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+I dunno, I didn't go into a Burger 
+King.
+But you know what they put on 
+french fries in Holland instead of 
+ketchup?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+What?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Mayonnaise."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Goddamn!"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+I seen 'em do it. And I don't mean a 
+little bit on the side of the plate, 
+they fuckin' drown 'em in it."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Uuccch!"
+	},
+	{
+		"type": "transition",
+		"data": "CUT TO:"
+	},
+
+	{
+		"type": "scene",
+		"data": "INT. CHEVY (TRUNK)  MORNING"
+	},
+	{
+		"type": "misc",
+		"data": " 
+The trunk of the Chevy OPENS UP, Jules and Vincent reach 
+inside, taking out two .45 Automatics, loading and cocking 
+them."
+	},
+
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+We should have shotguns for this 
+kind of deal."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+How many up there?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Three or four."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Counting our guy?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+I'm not sure."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+So there could be five guys up there?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+It's possible."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+We should have fuckin' shotguns."
+	},
+	{
+		"type": "action",
+		"data": "They CLOSE the trunk."
+	},
+	{
+		"type": "transition",
+		"data": "CUT TO:"
+	},
+
+	{
+		"type": "scene",
+		"data": "EXT. APARTMENT BUILDING COURTYARD  MORNING"
+	},
+	{
+		"type": "misc",
+		"data": " 
+Vincent and Jules, their long matching overcoats practically 
+dragging on the ground, walk through the courtyard of what 
+looks like a hacienda-style Hollywood apartment building."
+	},
+	{
+		"type": "misc",
+		"data": "
+We TRACK alongside."
+	},
+
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+What's her name?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Mia."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+How did Marsellus and her meet?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+I dunno, however people meet people. 
+She usta be an actress."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+She ever do anything I woulda saw?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+I think her biggest deal was she 
+starred in a pilot."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+What's a pilot?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Well, you know the shows on TV?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+I don't watch TV."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Yes, but you're aware that there's 
+an invention called television, and 
+on that invention they show shows?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Yeah."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Well, the way they pick the shows on 
+TV is they make one show, and that 
+show's called a pilot. And they show 
+that one show to the people who pick 
+the shows, and on the strength of 
+that one show, they decide if they 
+want to make more shows. Some get 
+accepted and become TV programs, and 
+some don't, and become nothing. She 
+starred in one of the ones that became 
+nothing."
+	},
+	{
+		"type": "action",
+		"data": "They enter the apartment building."
+	},
+	{
+		"type": "scene",
+		"data": "INT. RECEPTION AREA (APARTMENT BUILDING)  MORNING"
+	},
+	{
+		"type": "misc",
+		"data": " 
+Vincent and Jules walk through the reception area and wait 
+for the elevator."
+	},
+
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+You remember Antwan Rockamora? Half- 
+black, half-Samoan, usta call him 
+Tony Rocky Horror."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Yeah maybe, fat right?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+I wouldn't go so far as to call the 
+brother fat. He's got a weight 
+problem.
+What's the nigger gonna 
+do, he's Samoan."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+I think I know who you mean, what 
+about him?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Well, Marsellus fucked his ass up 
+good.
+And word around the campfire, 
+it was on account of Marsellus 
+Wallace's wife."
+	},
+	{
+		"type": "action",
+		"data": "The elevator arrives, the men step inside."
+	},
+	{
+		"type": "scene",
+		"data": "INT. ELEVATOR  MORNING"
+	},
+
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+What'd he do, fuck her?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+No no no no no no no, nothin' that 
+bad."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Well what then?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+He gave her a foot massage."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+A foot massage?"
+	},
+	{
+		"type": "action",
+		"data": "Jules nods his head: \"Yes.\""
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+That's all?"
+	},
+	{
+		"type": "action",
+		"data": "Jules nods his head: \"Yes.\""
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+What did Marsellus do?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Sent a couple of guys over to his 
+place.
+They took him out on the 
+patio of his apartment, threw his 
+ass over the balcony.
+Nigger fell 
+four stories. They had this garden 
+at the bottom, enclosed in glass, 
+like one of them greenhouses  nigger 
+fell through that. Since then, he's 
+kinda developed a speech impediment."
+	},
+	{
+		"type": "action",
+		"data": "The elevator doors open, Jules and Vincent exit."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+That's a damn shame."
+	},
+	{
+		"type": "scene",
+		"data": "INT. APARTMENT BUILDING HALLWAY  MORNING"
+	},
+	{
+		"type": "misc",
+		"data": " 
+STEADICAM in front of Jules and Vincent as they make a beeline 
+down the hall."
+	},
+
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Still I hafta say, play with matches, 
+ya get burned."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Whaddya mean?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+You don't be givin' Marsellus 
+Wallace's new bride a foot massage."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+You don't think he overreacted?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Antwan probably didn't expect 
+Marsellus to react like he did, but 
+he had to expect a reaction."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+It was a foot massage, a foot massage 
+is nothing, I give my mother a foot 
+massage."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+It's laying hands on Marsellus 
+Wallace's new wife in a familiar 
+way. Is it as bad as eatin' her out 
+ no, but you're in the same fuckin' 
+ballpark."
+	},
+	{
+		"type": "action",
+		"data": "Jules stops Vincent."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Whoa... whoa... whoa... stop right 
+there.
+Eatin' a bitch out, and givin' 
+a bitch a foot massage ain't even 
+the same fuckin' thing."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Not the same thing, the same ballpark."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+It ain't no ballpark either. Look 
+maybe your method of massage differs 
+from mine, but touchin' his lady's 
+feet, and stickin' your tongue in 
+her holyiest of holyies, ain't the 
+same ballpark, ain't the same league, 
+ain't even the same fuckin' sport. 
+Foot massages don't mean shit."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Have you ever given a foot massage?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Don't be tellin' me about foot 
+massages  I'm the foot fuckin' 
+master."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Given a lot of 'em?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Shit yeah. I got my technique down 
+man, I don't tickle or nothin'."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Have you ever given a guy a foot 
+massage?"
+	},
+	{
+		"type": "action",
+		"data": "Jules looks at him a long moment  he's been set up."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Fuck you."
+	},
+	{
+		"type": "action",
+		"data": "He starts walking down the hall.
+Vincent, smiling, walks a 
+little bit behind."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+How many?"
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Fuck you."
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "speech",
+		"data": "
+Would you give me a foot massage  
+I'm kinda tired."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+Man, you best back off, I'm gittin' 
+pissed  this is the door."
+	},
+	{
+		"type": "action",
+		"data": "The two men stand in front of the door numbered \"49.\" They 
+whisper."
+	},
+	{
+		"type": "character",
+		"data": "JULES"
+	},
+	{
+		"type": "speech",
+		"data": "
+What time is it?"
+	},
+	{
+		"type": "character",
+		"data": "VINCENT"
+	},
+	{
+		"type": "parenthetical",
+		"data": "(checking his watch)"
+	},
+	{
+		"type": "speech",
+		"data": " 
+Seven-twenty-two in the morning."
+	}
+]
